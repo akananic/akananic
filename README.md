@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akananic
+- 👋 Hi, I’m @akananic, although Nicole works fine too :)
 - 👀 I’m interested in psychology and data science
-- 🌱 I’m currently learning SQL
+- 🌱 I completed SQL learning courses offered by Khan Academy and Break Into Tech early July 2022
 
 <!---
 akananic/akananic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
